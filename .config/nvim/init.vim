@@ -28,3 +28,4 @@ set number
 set relativenumber
 set mouse=a
 set inccommand=split
+set clipboard=unnamedplus
