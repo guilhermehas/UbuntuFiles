@@ -5,6 +5,8 @@ Plug 'sheerun/vim-polyglot'
 Plug 'roxma/nvim-completion-manager'
 Plug 'w0rp/ale'
 Plug 'jiangmiao/auto-pairs'
+Plug 'tpope/vim-surround'
+Plug 'tpope/vim-commentary'
 call plug#end()
 	
 " colorscheme gruvbox
